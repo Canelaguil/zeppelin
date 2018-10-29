@@ -11,23 +11,20 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
+  title: "Introduction to Serverless Computing"
+  description: "Serverless development is a hot topic. Most of the people heard that serverless is great for creating scalable and high-quality apps. But,  how easy is it, really? Pretty easy, actually! In this talk I’ll introduce serverless computing using Google Cloud.  How to get started,  how to build more complex applications and how to integrate 3rd party applications?  The talk will include Firestore, Cloud functions, PubSub, BigQuery, Cloud Storage, Rest API’s and how to combine these with third party applications.  "
+  subtype: presentation
+  speakers: [3]
   language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "To Be Added"
+  description: "Our call for papers is still open! Become GDG CloudFest's next speaker!"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [6]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"
 -
   id: 003
   title: "Android L Animation"
@@ -35,7 +32,7 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
+  complexity: "Intermediate"
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004

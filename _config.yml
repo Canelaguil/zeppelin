@@ -26,7 +26,7 @@ organizerAlternateName: "Google Developer Group Cloud Netherlands"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgnl.app/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, cloud, gsuite, developers, amsterdam"
@@ -36,7 +36,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://www.papercall.io/gdgcloudfest"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/sponsordoc.pdf"
 
 
 # Navigation
