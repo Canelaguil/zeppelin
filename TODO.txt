@@ -1,0 +1,4 @@
+XX Change the color of H1 in the hero
+XX Add pictures of venture
+Remove link to schedule for time being
+Where does the logo change?
