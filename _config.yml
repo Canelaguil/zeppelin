@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG CloudFest"
-email: "canelaguil@gmail.com"
+#email: "canelaguil@gmail.com"
 description: "GDG CloudFest is the biggest Google Cloud gathering yet in the Netherlands!"
 baseurl: "/zeppelin"
 url: "http://cloudfest.gdgnl.app"
@@ -25,7 +25,7 @@ organizerName: "GDG Cloud Netherlands"
 organizerAlternateName: "Google Developer Group Cloud Netherlands"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
+organizerLogo: "/img/organizers/GDGCloudLogo.png"
 organizerLink: "http://gdgnl.app/"
 
 # Head
@@ -42,14 +42,10 @@ c4sponsorsUrl: "/assets/sponsordoc.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "How to get there"}
-bottomNavigationLinks:
- - {link: "http://papercall.io/gdgcloudfest", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://papercall.io/gdgcloudfest", text: "Become a speaker"}
+- {link: "http://gdgcloudfest.eventbrite.co.uk", text: "Get tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -58,36 +54,33 @@ eventDate: "24th of November, 2018"
 typeoutTextValues: '"", "Fest", "Fest Netherlands"'
 typeoutFallback: "Fest Netherlands"
 heroButtons:
- - {link: "https://www.papercall.io/gdgcloudfest", text: "Become a speaker"}
- - {link: "https://www.eventbrite.co.uk/e/gdg-cloudfest-netherlands-tickets-28827047475", text: "Buy tickets"}
+ - {link: "https://www.eventbrite.co.uk/e/gdg-cloudfest-netherlands-tickets-28827047475", text: "Get tickets"}
 
 # About Block
 aboutTitle: "About GDG CloudFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Accesible", image: "workshop.jpg", text: "Everyone is welcome, and we have talks for both beginners and advanced developers." }
+ - {title: "Technical", image: "talks.png", text: "Everyone is welcome, but this is a technical conference. Expect technical talks." }
+ - {title: "Community", image: "community.png", text: "Everyone is welcome! GDG is a global community. Learn from and with other Google developers." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "7", specialCharacter: "", info: "hours", detail: "of Google Cloud"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from the Netherlands and beyond"}
+ - {count: "12", specialCharacter: "+", info: "speakers", detail: "from the Netherlands and beyond"}
  - {count: "3", specialCharacter: "", info: "tracks", detail: "with both talks and workshops"}
 
-# Latest News Block
-latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Meet our speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
+eventLocationName: "B.Amsterdam"
 eventLocationLink: "http://b-buildingbusiness.com/amsterdam/"
 eventStreetAddress: "Johan Huizingalaan 763a"
 eventAddressLocality: "Amsterdam"
@@ -108,7 +101,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "B.Amsterdam"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Biggest tech startup ecosystem of Europe", "Three spacious conference rooms", "Easy to reach with both public transport and car"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -146,7 +139,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Google Developer Group Cloud Netherlands is part of the Global Groups of Google Technology enthusiasts. We just love Google Cloud Platform a lot. "
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

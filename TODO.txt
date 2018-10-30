@@ -1,4 +1,8 @@
 XX Change the color of H1 in the hero
 XX Add pictures of venture
-Remove link to schedule for time being
+XX Remove link to schedule for time being
+
 Where does the logo change?
+Why doesn't the google maps plug in work?
+Make the logos bigger
+Optimize about section pictures

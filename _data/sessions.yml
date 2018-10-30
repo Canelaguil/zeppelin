@@ -19,38 +19,39 @@
   complexity: "Beginner"
 -
   id: 002
-  title: "To Be Added"
-  description: "Our call for papers is still open! Become GDG CloudFest's next speaker!"
+  title: "Easy Microservices in the cloud with Kubernetes and Istio"
+  description: "Microservices are a powerful method to build a scalable and agile backend, but managing these services is a nightmare. Once developed, the process of building, deploying, service discovery, load balancing, routing, tracing, auth, graceful failures, rate limits, and more are cumbersome and involves many moving parts. This session will show you how the Kubernetes container management system and Istio service mesh can simplify many of the operational challenges of microservices, including an in-depth live demo showcasing how easy it is to create and develop microservices with JHipster and deploying them into Kubernetes cluster with Istio service mesh."
   subtype: presentation
-  speakers: [6]
+  speakers: [8]
   language: en
   complexity: "Intermediate"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Learn how to test your AI solution for DevOps"
+  description: "Testing an AI solution is no longer possible using only traditional techniques. So how are you going to make sure that your AI solution behaves as expected? Join us and learn how to test and validate the quality of your AI solution during the complete DevOps cycle. We walk through the DevOps for AI cycle to see which challenges we have on testing and validating an AI solution. How do you know you solve the right problem, which data do you need and how do you know it works correctly? During all stages in DevOps you have to ask these questions and we show you how to answer these questions."
   subtype: presentation
-  speakers: [4]
+  speakers: [5]
   language: en
   complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
+  title: "From Small Sensors to Big Queries"
+  description: "I put a raspberry with sensors in every room in my house. This data is logged and compared with other sets in Big Query. I’ll talk about how you can do serverless apps around bigquery for IoT tasks and how you can command a fleet or raspberries for logging. It’s easier than you might think. Fun too.
+
+In particular I will discuss how the only servers in my entire chain are the sensors themselves."
+  subtype: presentation
+  speakers: [7]
   language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Intermediate"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  title: "Akka Cluster vs Kubernetes: Clustering Solutions Showdown"
+  description: "An Akka and a Kubernetes expert walk into a bar and try to figure out which one to use for distributed services. Does K8S bring value to distributed applications using Akka? Does Akka Cluster have a place in the age of K8S? This talk explores integration patterns between the two. Friends or foes? We came together as experts in Akka and Kubernetes, and battled it out to see who’s favourite technology is better suited for building modern distributed applications. Is Kubernetes the end of Akka Cluster? Does Akka Cluster offer more to JVM-based applications than Kubernetes does? Or is there reason for friendly coexistence?
+
+In this talk we explore different patterns of using Kubernetes together, or in place of Akka Cluster. We will show pros and cons of each approach to give the audience guidance in navigating the conflicting and overlapping aspects of the two technologies.
+
+During our research we have built examples of these patterns to underpin and demonstrate our conclusions with working code. This code will be made available publicly on Github."
+  subtype: presentation
+  speakers: [6]
   language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"

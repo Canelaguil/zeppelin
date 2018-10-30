@@ -1,15 +1,15 @@
 -
   id: 6
-  name: "To Be"
-  surname: "Announced"
-  company: "You, perhaps?"
-  title: ""
-  bio: "Stay tuned for new speakers!"
-  thumbnailUrl: SA_TBA.jpg
+  name: "Fabio"
+  surname: "Tiriticco"
+  company: "Ace & Tate"
+  title: "Scala Developer"
+  bio: "Scala Architect and Tech Lead. Community guy at the root - I’m the organiser of the Reactive Amsterdam meetup. Long distance bicycle touring and fingerpicking guitar."
+  thumbnailUrl: fabio.jpg
   rockstar: true
   social:
-    - {name: "site", link: "https://papercall.io/gdgcloudfest"}
-
+    - {name: "site", link: "https://ticofab.io"}
+    - {name: "twitter", link: "http://twitter.com/ticofab"}
 -
   id: 3
   name: "Stefan"
@@ -24,7 +24,6 @@
   social:
     - {name: "twitter", link: "https://twitter.com/shogendoorn"}
     - {name: "site", link: "https://www.qlouder.com"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/stefanhogendoorn/"}
 -
   id: 4
   name: "Constantijn"
@@ -42,16 +41,43 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Joop"
+  surname: "Snijder"
+  company: "Info Support"
+  title: "Head of AI Research Center"
+  bio: "Joop Snijder is Head of Research Center AI at Info Support. He's been working in the field of Artificial Intelligence for about 6 years. He's also the creator of the AI Experiment Canvas. Helping companies with their AI strategy is what he likes: helping them turn their data into smart business solutions with impact to their business goals. He loves to help generate great ideas and turn them into small scale experiments that grow into full size solutions."
+  thumbnailUrl: joop.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-
+    - {name: "site", link: "https://www.linkedin.com/pulse/how-public-transportation-company-discovered-70-ideas-joop-snijder-1/"}
+    - {name: "twitter", link: "http://twitter.com/joopphoto"}
+-
+  id: 7
+  name: "Vincent"
+  surname: "D. Warmerdam"
+  company: "GoDataDriven"
+  title: "Gym Leader"
+  bio: "Vincent has done a few things in the last few years that he's rather proud of. He:
+  -got to the front page of reddit https://twitter.com/fishnets88/status/883032331778498560
+  -started a popular blog http://koaning.io
+  -started a popular meetup/conference https://pydata.org/amsterdam2018/
+  -kickstarted a similar conference in Amsterdam for R https://amsterdam2018.satrdays.org
+  -got to speak at meaningful conferences and had talks that great feedback, my fav: https://www.youtube.com/watch?v=68ABAU_V8qI"
+  thumbnailUrl: joop.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://koaning.io"}
+    - {name: "twitter", link: "http://twitter.com/fishnets88"}
+-
+  id: 8
+  name: "Sendil"
+  surname: "Kumar N"
+  company: "Xebialabs"
+  title: "Cloud Hipster"
+  bio: "A big open source lover. Involved in many open source projects. JVM / JS / Rust / Cloud-native / Devops developer. Sendil is a Part of JHipster team (an open source project focusing on helping developers to get started with their production-ready applications faster and easier), a team member of JHipster, Weebpack and RustWASM, cofounded WASM-tools and created KHipster and Webpack-scaffold-PWA."
+  thumbnailUrl: sendil.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/sendilkumarn/"}
+    - {name: "site", link: "https://sendilkumarn.js.org"}
+    - {name: "twitter", link: "http://twitter.com/sendilkumarn"}

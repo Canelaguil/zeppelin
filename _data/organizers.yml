@@ -1,4 +1,4 @@
 -
   elements:
-    - {name: "GDG Cloud Netherlands", description: "GDG Cloud Netherlands - All things gcloud", link: "http://gdgnl.app", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Cloud Netherlands", description: "GDG Cloud Netherlands - All things gcloud", link: "http://gdgnl.app", imageUrl: "GDGCloudLogo.png"}
     - {name: "GDG Netherlands", description: "GDG Netherlands - The Google Developer community in the Netherlands", link: "http://gdgnl.app", imageUrl: "gdgnl-logo.png"}
