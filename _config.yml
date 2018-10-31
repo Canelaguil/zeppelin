@@ -57,7 +57,7 @@ heroButtons:
  - {link: "https://www.eventbrite.co.uk/e/gdg-cloudfest-netherlands-tickets-28827047475", text: "Get tickets"}
 
 # About Block
-aboutTitle: "About GDG CloudFest"
+aboutTitle: "This is GDG Group CloudFest"
 aboutBlock:
  - {title: "Accesible", image: "talking.png", text: "Everyone is welcome, and we have talks for both beginners and advanced developers." }
  - {title: "Technical", image: "talks.png", text: "Everyone is welcome, but this is a technical conference. Expect technical talks." }
