@@ -59,7 +59,7 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG CloudFest"
 aboutBlock:
- - {title: "Accesible", image: "workshop.jpg", text: "Everyone is welcome, and we have talks for both beginners and advanced developers." }
+ - {title: "Accesible", image: "talking.png", text: "Everyone is welcome, and we have talks for both beginners and advanced developers." }
  - {title: "Technical", image: "talks.png", text: "Everyone is welcome, but this is a technical conference. Expect technical talks." }
  - {title: "Community", image: "community.png", text: "Everyone is welcome! GDG is a global community. Learn from and with other Google developers." }
 
