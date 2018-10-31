@@ -1,16 +1,16 @@
 -
-  id: 6
-  name: "Fabio"
-  surname: "Tiriticco"
-  company: "Ace & Tate"
-  title: "Scala Developer"
-  bio: "Scala Architect and Tech Lead. Community guy at the root - I’m the organiser of the Reactive Amsterdam meetup. Long distance bicycle touring and fingerpicking guitar."
-  thumbnailUrl: fabio.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://ticofab.io"}
-    - {name: "twitter", link: "http://twitter.com/ticofab"}
--
+#   id: 6
+#   name: "Fabio"
+#   surname: "Tiriticco"
+#   company: "Ace & Tate"
+#   title: "Scala Developer"
+#   bio: "Scala Architect and Tech Lead. Community guy at the root - I’m the organiser of the Reactive Amsterdam meetup. Long distance bicycle touring and fingerpicking guitar."
+#   thumbnailUrl: fabio.jpg
+#   rockstar: true
+#   social:
+#     - {name: "site", link: "https://ticofab.io"}
+#     - {name: "twitter", link: "http://twitter.com/ticofab"}
+# -
   id: 3
   name: "Stefan"
   surname: "Hogendoorn"
@@ -28,17 +28,13 @@
   id: 4
   name: "Constantijn"
   surname: "Visinescu"
-  company: "Unilever, Binx.io"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
+  company: "Binx.io, Unilever"
+  title: "Google Cloud Consultant, Lead Cloud Engineer"
+  bio: ""
   thumbnailUrl: constantijn.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
   name: "Joop"
@@ -52,22 +48,30 @@
     - {name: "site", link: "https://www.linkedin.com/pulse/how-public-transportation-company-discovered-70-ideas-joop-snijder-1/"}
     - {name: "twitter", link: "http://twitter.com/joopphoto"}
 -
-  id: 7
-  name: "Vincent"
-  surname: "D. Warmerdam"
-  company: "GoDataDriven"
-  title: "Gym Leader"
-  bio: "Vincent has done a few things in the last few years that he's rather proud of. He:
-  -got to the front page of reddit https://twitter.com/fishnets88/status/883032331778498560
-  -started a popular blog http://koaning.io
-  -started a popular meetup/conference https://pydata.org/amsterdam2018/
-  -kickstarted a similar conference in Amsterdam for R https://amsterdam2018.satrdays.org
-  -got to speak at meaningful conferences and had talks that great feedback, my fav: https://www.youtube.com/watch?v=68ABAU_V8qI"
-  thumbnailUrl: joop.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "http://koaning.io"}
-    - {name: "twitter", link: "http://twitter.com/fishnets88"}
+  id: 13
+  name: "Willem"
+  surname: "Meints"
+  company: "Info Support"
+  title: "AI Specialist & Technical Evangelist"
+  bio: "Joop Snijder is Head of Research Center AI at Info Support. He's been working in the field of Artificial Intelligence for about 6 years. He's also the creator of the AI Experiment Canvas. Helping companies with their AI strategy is what he likes: helping them turn their data into smart business solutions with impact to their business goals. He loves to help generate great ideas and turn them into small scale experiments that grow into full size solutions."
+  thumbnailUrl: willem.png
+  rockstar: false
+#   id: 7
+#   name: "Vincent"
+#   surname: "D. Warmerdam"
+#   company: "GoDataDriven"
+#   title: "Gym Leader"
+#   bio: "Vincent has done a few things in the last few years that he's rather proud of. He:
+#   -got to the front page of reddit https://twitter.com/fishnets88/status/883032331778498560
+#   -started a popular blog http://koaning.io
+#   -started a popular meetup/conference https://pydata.org/amsterdam2018/
+#   -kickstarted a similar conference in Amsterdam for R https://amsterdam2018.satrdays.org
+#   -got to speak at meaningful conferences and had talks that great feedback, my fav: https://www.youtube.com/watch?v=68ABAU_V8qI"
+#   thumbnailUrl: joop.jpg
+#   rockstar: true
+#   social:
+#     - {name: "site", link: "http://koaning.io"}
+#     - {name: "twitter", link: "http://twitter.com/fishnets88"}
 -
   id: 8
   name: "Sendil"

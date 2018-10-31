@@ -35,3 +35,47 @@
   social:
     - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 12
+  name: "Matt"
+  surname: "Feigal"
+  title: "Organizer"
+  thumbnailUrl: feigal.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/feigal"}
+-
+  id: 13
+  name: "Constantijn"
+  surname: "Visinescu"
+  title: "Organizer"
+  thumbnailUrl: constantijn.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+-
+  id: 9
+  name: "Jairzinno"
+  surname: "Henriquez"
+  title: "GDG Netherlands & DutchAUG"
+  thumbnailUrl: henriquez.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/Jairzinno"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jairzinno-henriquez-32b6559a"}
+-
+  id: 11
+  name: "Abdallah"
+  surname: "Abedraba"
+  title: "Google"
+  thumbnailUrl: abdallah.jpg
+  subTeam: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/aabedraba"}
+
