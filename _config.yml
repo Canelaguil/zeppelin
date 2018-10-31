@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "GDG CloudFest"
 #email: "canelaguil@gmail.com"
@@ -38,12 +37,12 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://www.papercall.io/gdgcloudfest"
 c4sponsorsUrl: "/assets/sponsordoc.pdf"
 
-
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/about/", text: "About"}
 rightNavigationButtons:
 - {link: "http://gdgcloudfest.eventbrite.co.uk", text: "Get tickets"}
 
@@ -57,7 +56,7 @@ heroButtons:
  - {link: "https://www.eventbrite.co.uk/e/gdg-cloudfest-netherlands-tickets-28827047475", text: "Get tickets"}
 
 # About Block
-aboutTitle: "This is GDG Group CloudFest"
+aboutTitle: "This is GDG CloudFest"
 aboutBlock:
  - {title: "Accesible", image: "talking.png", text: "Everyone is welcome, and we have talks for both beginners and advanced developers." }
  - {title: "Technical", image: "talks.png", text: "Everyone is welcome, but this is a technical conference. Expect technical talks." }
@@ -70,7 +69,6 @@ statisticBlock:
  - {count: "7", specialCharacter: "", info: "hours", detail: "of Google Cloud"}
  - {count: "12", specialCharacter: "+", info: "speakers", detail: "from the Netherlands and beyond"}
  - {count: "3", specialCharacter: "", info: "tracks", detail: "with both talks and workshops"}
-
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -138,8 +136,12 @@ footerBlocks:
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google Developer Group Cloud Netherlands is part of the Global Groups of Google Technology enthusiasts. We just love Google Cloud Platform a lot. "
+teamBlockTitle: "About GDG CloudFest"
+aboutUs: "GDG CloudFest is GDG Cloud’s biggest gathering yet: a day with talks, workshops and knowledge sharing from within and outside of the community. It’s a day of all things Google Cloud!
+Tickets are free as ever (so is the food) and there will be drinks afterward for all your social && networking needs.
+<br><br>
+GDG CloudFest is organized by GDG Cloud, which is part of <a  target='_blank' href='http://gdgnl.app'>GDG Netherlands</a>. GDG stands for Google Developer Group, a global network of meetups around
+Google technologies."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

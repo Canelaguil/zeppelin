@@ -1,16 +1,16 @@
 -
-#   id: 6
-#   name: "Fabio"
-#   surname: "Tiriticco"
-#   company: "Ace & Tate"
-#   title: "Scala Developer"
-#   bio: "Scala Architect and Tech Lead. Community guy at the root - I’m the organiser of the Reactive Amsterdam meetup. Long distance bicycle touring and fingerpicking guitar."
-#   thumbnailUrl: fabio.jpg
-#   rockstar: true
-#   social:
-#     - {name: "site", link: "https://ticofab.io"}
-#     - {name: "twitter", link: "http://twitter.com/ticofab"}
-# -
+  id: 6
+  name: "Fabio"
+  surname: "Tiriticco"
+  company: "Ace & Tate"
+  title: "Scala Developer"
+  bio: "Scala Architect and Tech Lead. Community guy at the root - I’m the organiser of the Reactive Amsterdam meetup. Long distance bicycle touring and fingerpicking guitar."
+  thumbnailUrl: fabio.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://ticofab.io"}
+    - {name: "twitter", link: "http://twitter.com/ticofab"}
+-
   id: 3
   name: "Stefan"
   surname: "Hogendoorn"
