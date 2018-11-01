@@ -53,9 +53,20 @@
   surname: "Meints"
   company: "Info Support"
   title: "AI Specialist & Technical Evangelist"
-  bio: "Joop Snijder is Head of Research Center AI at Info Support. He's been working in the field of Artificial Intelligence for about 6 years. He's also the creator of the AI Experiment Canvas. Helping companies with their AI strategy is what he likes: helping them turn their data into smart business solutions with impact to their business goals. He loves to help generate great ideas and turn them into small scale experiments that grow into full size solutions."
+  bio: ""
   thumbnailUrl: willem.png
   rockstar: false
+-
+  id: 14
+  name: "Ádám"
+  surname: "Sandor"
+  company: "Container Solutions"
+  title: "Engineer & Consultant"
+  bio: "Ádám moved from application development to a consultancy career in cloud native computing. He currently works at Amsterdam-based consultancy Container Solutions, helping companies succeed in improving their delivery of business critical software by combining his application development experience with knowledge of container-based infrastructure."
+  thumbnailUrl: sandor.jpg
+  rockstar: false
+  social:
+    - {name: "twitter", link: "https://twitter.com/adamsand0r"}
 # -
 #   id: 7
 #   name: "Vincent"

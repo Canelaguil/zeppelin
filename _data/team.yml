@@ -9,7 +9,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/canelaguil"}
-    - {name: "github", link: "https://github.com/canelaguil"}
     - {name: "linkedin", link: "https://linkedin.com/claramartensavila"}
 -
   id: 1
@@ -33,6 +32,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/rjankie"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rjankie/"}
 -
   id: 12
   name: "Matt"
@@ -44,6 +44,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/feigal"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mattfeigal"}
 -
   id: 13
   name: "Constantijn"
@@ -53,6 +54,19 @@
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/cvisinescu/"}
+-
+  id: 14
+  name: "Almo"
+  surname: ""
+  title: "Google"
+  thumbnailUrl: almo.png
+  subTeam: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/davilagrau"}
 -
   id: 9
   name: "Jairzinno"
@@ -76,15 +90,5 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/aabedraba"}
--
-  id: 14
-  name: "Almo"
-  surname: ""
-  title: "Google"
-  thumbnailUrl: almo.png
-  subTeam: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/davilagrau"}
+
 
