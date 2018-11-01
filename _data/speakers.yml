@@ -28,9 +28,9 @@
   id: 4
   name: "Constantijn"
   surname: "Visinescu"
-  company: "Binx.io, Unilever"
-  title: "Google Cloud Consultant, Lead Cloud Engineer"
-  bio: ""
+  company: "Binx.io"
+  title: "Lead Cloud Engineer"
+  bio: "Constantijn is a hands on cloud engineer/architect that likes getting things done. The main reason he likes Google Cloud Platform is because things tend to “just work”, leaving him much more time to build actual features for his customers. He’s just as at home discussing high level architectures as he is fixing low level problems in code. Spends most of his work hours helping customers build and deploy highly scalable and zero downtime applications, turning large amounts of data into new insights or helping data scientists turn their models into production ready applications. In his free time he co-organizes the dutch Google Cloud GDG, spends his time offline boardgaming or you might be able to find him on a dancefloor somewhere."
   thumbnailUrl: constantijn.jpg
   rockstar: true
   ribbon:

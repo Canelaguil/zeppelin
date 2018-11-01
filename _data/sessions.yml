@@ -57,8 +57,8 @@ During our research we have built examples of these patterns to underpin and dem
   complexity: "Expert"
 -
   id: 009
-  title: "Machine learning for non data scientists"
-  description: ""
+  title: "Machine learning for developers (or: non-data scientists)"
+  description: "Machine learning requires a very different mind set from normal development work. In this talk we’ll go over the differences in mind set you need to get into machine learning and we’ll show a lot of hands on examples on how you can get started with machine learning yourself without having to get a PHD first."
   subtype: workshop
   speakers: [4]
   language: en
