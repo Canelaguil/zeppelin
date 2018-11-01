@@ -2,7 +2,7 @@
   id: 0
   name: "Clara"
   surname: "Martens Avila"
-  title: "Coordinator"
+  title: "Organizer"
   thumbnailUrl: claramartens.png
   team: true
   ribbon:
@@ -21,8 +21,7 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tea-stojanovic/"}
 -
   id: 2
   name: "Rokesh"
@@ -33,8 +32,7 @@
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/rjankie"}
 -
   id: 12
   name: "Matt"
@@ -78,4 +76,15 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/aabedraba"}
+-
+  id: 14
+  name: "Almo"
+  surname: ""
+  title: "Google"
+  thumbnailUrl: almo.png
+  subTeam: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/davilagrau"}
 

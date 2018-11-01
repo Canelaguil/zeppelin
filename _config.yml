@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG CloudFest"
 #email: "canelaguil@gmail.com"
 description: "GDG CloudFest is the biggest Google Cloud gathering yet in the Netherlands!"
-baseurl: "/zeppelin"
+baseurl: "/zeppelin/"
 url: "http://cloudfest.gdgnl.app"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
@@ -22,13 +22,13 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Cloud Netherlands"
 organizerAlternateName: "Google Developer Group Cloud Netherlands"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google Cloud."
+organizerEmail: "canelaguil@gmail.com"
 organizerLogo: "/img/organizers/GDGCloudLogo.png"
 organizerLink: "http://gdgnl.app/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, cloud, gsuite, developers, amsterdam"
+metaKeywords: "event, gdg, devfest, google, programming, cloud, gsuite, developers, amsterdam, meetup, google cloud"
 twitterAccount: "@gdgcloudnl"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -68,7 +68,7 @@ statisticBlock:
  - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "7", specialCharacter: "", info: "hours", detail: "of Google Cloud"}
  - {count: "12", specialCharacter: "+", info: "speakers", detail: "from the Netherlands and beyond"}
- - {count: "3", specialCharacter: "", info: "tracks", detail: "with both talks and workshops"}
+ - {count: "3", specialCharacter: "", info: "rooms", detail: "filled with talks and workshops"}
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -105,7 +105,6 @@ venueFeatures: ["Biggest tech startup ecosystem of Europe", "Three spacious conf
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "GDGCloudFest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -123,6 +122,7 @@ footerBlocks:
   links:
    - {link: "http://gdgnl.app", text: "GDG Netherlands"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.papercall.io/gdgcloudfest", text: "Call for papers"}
  -
   title: "Contacts"
   links:
