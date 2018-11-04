@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG CloudFest"
 #email: "canelaguil@gmail.com"
 description: "GDG CloudFest is the biggest Google Cloud gathering yet in the Netherlands!"
-baseurl: "/zeppelin/"
+baseurl: ""
 url: "http://cloudfest.gdgnl.app"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
