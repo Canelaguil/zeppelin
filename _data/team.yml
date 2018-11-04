@@ -2,7 +2,7 @@
   id: 0
   name: "Clara"
   surname: "Martens Avila"
-  title: "Organizer"
+  title: "Coordinator"
   thumbnailUrl: claramartens.png
   team: true
   ribbon:
@@ -50,7 +50,7 @@
   name: "Constantijn"
   surname: "Visinescu"
   title: "Organizer"
-  thumbnailUrl: constantijn.jpg
+  thumbnailUrl: visinescu.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
