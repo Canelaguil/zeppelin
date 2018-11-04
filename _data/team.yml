@@ -90,5 +90,14 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/aabedraba"}
+-
+  id: 16
+  name: "Önder"
+  surname: "Ceylan"
+  title: "Google"
+  thumbnailUrl: onder.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/onderceylan"}
 
 
