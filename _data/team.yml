@@ -22,6 +22,18 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/tea-stojanovic/"}
 -
+  id: 9
+  name: "Jurre"
+  surname: "Brandsen"
+  title: "Organizer"
+  thumbnailUrl: jurre.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jurre-brandsen-8b25507b/"}
+    - {name: "site", link: "http://jurrebrandsen.nl/"}
+-
   id: 2
   name: "Rokesh"
   surname: "Jankie"
@@ -67,18 +79,6 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/davilagrau"}
--
-  id: 9
-  name: "Jairzinno"
-  surname: "Henriquez"
-  title: "GDG Netherlands & DutchAUG"
-  thumbnailUrl: henriquez.jpg
-  subTeam: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/Jairzinno"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jairzinno-henriquez-32b6559a"}
 -
   id: 11
   name: "Abdallah"
