@@ -63,6 +63,16 @@ During our research we have built examples of these patterns to underpin and dem
   speakers: [4]
   language: en
   complexity: "Beginner"
+-
+  id: 010
+  title: "Serverless mobile apps with Flutter"
+  description: "Flutter is awesome to develop apps for different phones. In this talk Arno will introduce & explain Flutter using an actual example (the Qlouder Library app). The goal is to show how you can use it to create an app with third party database links.
+
+  Curious how to create an awesome Flutter app that connects to FireStore? Get seated and let Arno talk you through the way of working with Flutter. Using the example of a self-made library app, he’ll introduce and explain Flutter. How to get your app retrieving information about the book, the availability and the order status, or what if you want to chase another person to read a bit faster? Just some examples of what will be shown."
+  subtype: workshop
+  speakers: [20]
+  language: en
+  complexity: "Intermediate"
 
 
 

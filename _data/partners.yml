@@ -8,3 +8,4 @@
     - {name: "ML6", description: "Not just knowledgeable about ML, but defining the future of it", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "ML6_black.png", width: "120px"}
     - {name: "Qlouder", description: "Qlouder - Brings you more", link: "http://www.qlouder.com", imageUrl: "qlouder.png", width: "160px"}
     - {name: "Info Support", description: "Solid innovator", link: "http://www.infosupport.com", imageUrl: "infosupport.png", width: "140px"}
+    - {name: "Binx.io", description: "Cloud transfromation done right", link: "http://binx.io", imageUrl: "binxio.png", width: "140px"}

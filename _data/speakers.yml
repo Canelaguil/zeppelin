@@ -97,3 +97,15 @@
     - {name: "github", link: "https://github.com/sendilkumarn/"}
     - {name: "site", link: "https://sendilkumarn.js.org"}
     - {name: "twitter", link: "http://twitter.com/sendilkumarn"}
+-
+  id: 20
+  name: "Arno"
+  surname: "Zwaag"
+  company: "Xebialabs"
+  title: "Cloud Hipster"
+  bio: "Arno is Qlouder’s Cloud Architect. In this role he designed and developed a lot of (Google Cloud) applications. In the last 25 years both customers and colleagues praised Arno for his excellent skill of keeping a high level overview, his ability to explain technologies and his special kind of humor (let's not say too much about that though…).
+If you need advice or an explanation about the Google Cloud Platform, or App Engine, Firebase and Flutter in particular, Arno is the guy to go to."
+  thumbnailUrl: arno.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ArnoZwaag"}
