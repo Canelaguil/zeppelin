@@ -67,23 +67,23 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/adamsand0r"}
-# -
-#   id: 7
-#   name: "Vincent"
-#   surname: "D. Warmerdam"
-#   company: "GoDataDriven"
-#   title: "Gym Leader"
-#   bio: "Vincent has done a few things in the last few years that he's rather proud of. He:
-#   -got to the front page of reddit https://twitter.com/fishnets88/status/883032331778498560
-#   -started a popular blog http://koaning.io
-#   -started a popular meetup/conference https://pydata.org/amsterdam2018/
-#   -kickstarted a similar conference in Amsterdam for R https://amsterdam2018.satrdays.org
-#   -got to speak at meaningful conferences and had talks that great feedback, my fav: https://www.youtube.com/watch?v=68ABAU_V8qI"
-#   thumbnailUrl: joop.jpg
-#   rockstar: true
-#   social:
-#     - {name: "site", link: "http://koaning.io"}
-#     - {name: "twitter", link: "http://twitter.com/fishnets88"}
+-
+  id: 7
+  name: "Vincent"
+  surname: "D. Warmerdam"
+  company: "GoDataDriven"
+  title: "Gym Leader"
+  bio: "Vincent has done a few things in the last few years that he's rather proud of. He:<br>
+  -got to the front page of reddit https://twitter.com/fishnets88/status/883032331778498560<br>
+  -started a popular blog http://koaning.io<br>
+  -started a popular meetup/conference https://pydata.org/amsterdam2018/<br>
+  -kickstarted a similar conference in Amsterdam for R https://amsterdam2018.satrdays.org<br>
+  -got to speak at meaningful conferences and had talks that great feedback, his fav: https://www.youtube.com/watch?v=68ABAU_V8qI<br>"
+  thumbnailUrl: vincent.png
+  rockstar: true
+  social:
+    - {name: "site", link: "http://koaning.io"}
+    - {name: "twitter", link: "http://twitter.com/fishnets88"}
 -
   id: 8
   name: "Sendil"
