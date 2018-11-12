@@ -73,6 +73,11 @@ During our research we have built examples of these patterns to underpin and dem
   speakers: [20]
   language: en
   complexity: "Intermediate"
-
-
-
+-
+  id: 011
+  title: "Powering Arcade Machines with Google Cloud and Terraform"
+  description:  "Instruqt is an online learning platform for DevOps and Cloud technologies. Terraform is used extensively within the platform to provision sandboxed user environments on Google Cloud. I will show how Terraform and Google Cloud are used programmatically within the platform and how Google Cloud simplifies our operations."
+  subtype: presentation
+  speakers: [21]
+  language: en
+  complexity: "Intermediate"

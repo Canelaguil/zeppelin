@@ -104,8 +104,19 @@
   company: "Qlouder"
   title: "Cloud Architect"
   bio: "Arno is Qlouder’s Cloud Architect. In this role he designed and developed a lot of (Google Cloud) applications. In the last 25 years both customers and colleagues praised Arno for his excellent skill of keeping a high level overview, his ability to explain technologies and his special kind of humor (let's not say too much about that though…).
-If you need advice or an explanation about the Google Cloud Platform, or App Engine, Firebase and Flutter in particular, Arno is the guy to go to."
+If you need advice or an explanation on the Google Cloud Platform, or App Engine, Firebase and Flutter in particular, Arno is the guy to go to."
   thumbnailUrl: arno.png
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ArnoZwaag"}
+-
+  id: 21
+  name: "Erik"
+  surname: "Veld"
+  company: "Instruqt"
+  title: "Founder"
+  bio: "Erik is the Founder of Instruqt. While working as a consultant at Xebia, he created the game for HashiConf Europe in 2016. This eventually turned into a learning platform that focuses on building skills and experience by solving hands-on challenges. His goal is to make learning technology fun."
+  thumbnailUrl: erik.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/erikveld"}
