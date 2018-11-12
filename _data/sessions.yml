@@ -81,3 +81,17 @@ During our research we have built examples of these patterns to underpin and dem
   speakers: [21]
   language: en
   complexity: "Intermediate"
+-
+  id: 012
+  title: "Angular 6 + Firebase Auth/Firestore + Stripe + Tokbox "
+  description:  "There was a time (well not that long ago) when if you wanted to insert a Video Chat in your app you needed to install a STUN servers and battle with networking and be ready to add another one to scale up your user. And often a Man of the firewall where having always his say about the security.
+But now a new era started with API Services (like Tokbox, Twillio) and you can make a serverless app that handles a Video Chat without big worries.
+<br>
+There was a time when to pay some goods on the internet was not that easy and not that trustable.
+But now a new era started with the API Services (like Stripe) and you can implement a credit card payment in a secure way.
+<br>
+I will walk you through a serverless architecture to make a video chat and pay with a credit card from a web app and the key point to approach the development following some DevOps practices. "
+  subtype: presentation
+  speakers: [22]
+  language: en
+  complexity: "Intermediate"

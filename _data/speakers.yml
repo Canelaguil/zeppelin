@@ -120,3 +120,14 @@ If you need advice or an explanation on the Google Cloud Platform, or App Engine
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/erikveld"}
+-
+  id: 22
+  name: "Marco"
+  surname: "Maccio"
+  company: "ELCA Informatique SA"
+  title: "DevOps Senior Architect"
+  bio: "After 5 nice years in Amsterdam, Marco moved to Switzerland to work in another broadcasting company where after a period as Software architect was deeply involved in DevOps and cloud Infrastructure. Now has moved again toward consultancy services always in the DevOps and cloud field helping customers to adopt DevOps, Infrastructure as Code and cloud development.
+In his spare time, he continues his passion for developing through app development with Angular, Ionic and NativeScript, Firebase and other 3rd parties API services. After long time working in Java and backend he's finding new challenges with front end and serverless."
+  thumbnailUrl: marco.png
+  rockstar: true
+  social:
