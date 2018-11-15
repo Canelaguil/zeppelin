@@ -63,7 +63,7 @@
   surname: "Visinescu"
   title: "Organizer"
   thumbnailUrl: visinescu.jpg
-  team: true
+  subTeam: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
