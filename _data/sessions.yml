@@ -95,3 +95,27 @@ I will walk you through a serverless architecture to make a video chat and pay w
   speakers: [22]
   language: en
   complexity: "Intermediate"
+-
+  id: 101
+  title: "Doors Open"
+  subtype: presentation
+  language: en
+  service: true
+-
+  id: 102
+  title: "Opening"
+  subtype: presentation
+  language: en
+  service: true
+-
+  id: 103
+  title: "Break"
+  subtype: presentation
+  language: en
+  service: true
+-
+  id: 104
+  title: "Drinks"
+  subtype: presentation
+  language: en
+  service: true

@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/about/", text: "About"}
 rightNavigationButtons:
-- {link: "http://gdgcloudfest.eventbrite.co.uk", text: "Get tickets"}
+- {link: "https://www.eventbrite.co.uk/e/gdg-cloudfest-netherlands-tickets-28827047475", text: "Get tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
