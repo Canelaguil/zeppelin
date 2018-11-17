@@ -135,6 +135,7 @@ At the end of the workshop everyone leaves the room with a defined experiment in
 -
   id: 605
   title: "Lightning Talks"
+  description: "This could be you!  <a target='_blank' href='https://goo.gl/forms/8HG5d2Bz5AjPxHtf1'>Sign up</a>"
   subtype: presentation
   language: en
   service: true
