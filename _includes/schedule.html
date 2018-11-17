@@ -1,19 +1,11 @@
 <!-- Begin Schedule Section -->
-<!-- <section id="schedule" class="schedule">
-        <div class="content-wrapper">
-            <div class="col-lg-10 col-lg-offset-1">
-                <h3>About</h3>-
-                <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">Schedule will be added soon! Check out <em>speakers</em> for the current confirmed talks.</a></p><br>
-                <img src="https://media.giphy.com/media/13bGgH9VnEDsuA/giphy.gif">
-            </div>
-        </div>
--->
+<section id="schedule" class="schedule">
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
-                <div class="track-header-label">Day {{ forloop.index }}</div>
+                <div class="track-header-label"></div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
@@ -86,6 +78,6 @@
             {% endfor %}
         </div>
         {% endfor %}
-    </div>-->
+    </div>
 </section>
 <!-- End Schedule Section -->

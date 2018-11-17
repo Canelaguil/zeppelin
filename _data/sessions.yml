@@ -1,9 +1,8 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
+  id: 504
+  title: "Workshop"
+  place: "Oblak"
   service: true
-  description: "The best time to talk with speakers and attendees"
 -
   id: 503
   title: "Lunch Break"
@@ -59,7 +58,7 @@ During our research we have built examples of these patterns to underpin and dem
   id: 009
   title: "Machine learning for developers (or: non-data scientists)"
   description: "Machine learning requires a very different mind set from normal development work. In this talk we’ll go over the differences in mind set you need to get into machine learning and we’ll show a lot of hands on examples on how you can get started with machine learning yourself without having to get a PHD first."
-  subtype: workshop
+  subtype: presentation
   speakers: [4]
   language: en
   complexity: "Beginner"
@@ -119,3 +118,17 @@ I will walk you through a serverless architecture to make a video chat and pay w
   subtype: presentation
   language: en
   service: true
+-
+  id: 603
+  title: "Start you own AI experiment today"
+  description: "Many companies are looking to start with AI, but struggling where to start. In this workshop we’ll help you set up your own AI experiment using our AI Experiment Canvas. Discover ideas for AI solutions that will make impact on your business and walk away with your own defined AI experiment. <br> <br>
+
+  In this workshop we guide the attendees to setup their first AI experiment. We have a very short introduction of what AI is and present typical corporate use cases. After an exercise to get creative, the attendees will generate at much ideas around AI as they can for their own business. We think innovation needs to make impact on the business goals, like more profit, less costs, etc. Therefor we connect the generated ideas to the business goals and let them pick the one with the most impact.
+
+Now they have a single great AI idea. With this idea we will fill in the AI Experiment Canvas. The attendees have to think about their learning goal, set a hypothesis and plan their experiment. For example who do I need for this experiment, which platform (Google Cloud?), which data, etc.
+
+At the end of the workshop everyone leaves the room with a defined experiment in such a way they can start with it right away."
+  subtype: presentation
+  speakers: [5, 13]
+  language: en
+  complexity: "Beginner"
