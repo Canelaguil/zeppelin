@@ -91,6 +91,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/aabedraba"}
 -
+  id: 26
+  name: "Leonie"
+  surname: "Martens"
+  title: "LeMar Events"
+  thumbnailUrl: leonie.jpg
+  subTeam: true
+  social:
+    - {name: "site", link: "https://www.lemarevents.nl/"}
+-
   id: 16
   name: "Önder"
   surname: "Ceylan"
