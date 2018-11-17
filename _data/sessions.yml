@@ -132,3 +132,9 @@ At the end of the workshop everyone leaves the room with a defined experiment in
   speakers: [5, 13]
   language: en
   complexity: "Beginner"
+-
+  id: 605
+  title: "Lightning Talks"
+  subtype: presentation
+  language: en
+  service: true
