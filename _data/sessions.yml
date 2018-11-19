@@ -1,7 +1,8 @@
 -
   id: 504
   title: "Hands-on Python workshop: Anonymizing images with AutoML"
-  description: ""
+  description: "<b>To get the most from this workshop please bring your own device with python installed.</b> <br> <br>
+Worldwide, we collectively took about 1.2 trillion photos in 2017 alone. All this data is being used for machine learning applications, from object detection to self-driving cars. But in a lot of scenarios, parts of the image are both unimportant to the machine learning model and highly sensitive. In this workshop you will see how you can use google cloud's autoML API to create a python program that can mask the faces of people in an image. If we have any time left we can go a little deeper and add the Cloud Natural Language API to the mix to specifically mask names from e.g a photo of a receipt."
   subtype: workshop
   speakers: [36]
   place: "Oblak"
