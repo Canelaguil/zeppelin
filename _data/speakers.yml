@@ -1,4 +1,14 @@
 -
+  id: 36
+  name: "Victor"
+  surname: "Sonck"
+  company: "ML6"
+  title: "Machine Learning Engineer"
+  bio: ""
+  thumbnailUrl: victor.jpg
+  rockstar: true
+  social:
+-
   id: 6
   name: "Fabio"
   surname: "Tiriticco"
@@ -131,3 +141,4 @@ In his spare time, he continues his passion for developing through app developme
   thumbnailUrl: marco.png
   rockstar: true
   social:
+

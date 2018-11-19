@@ -1,6 +1,16 @@
 -
   id: 504
-  title: "Workshop"
+  title: "Hands-on Python workshop: Anonymizing images with AutoML"
+  description: ""
+  subtype: workshop
+  speakers: [36]
+  place: "Oblak"
+  language: en
+  complexity: "Intermediate"
+-
+  id: 800
+  title: "Continuation Workshop"
+  speakers: [5]
   place: "Oblak"
   service: true
 -
