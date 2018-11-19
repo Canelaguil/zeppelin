@@ -10,9 +10,12 @@
 -
   id: 800
   title: "Continuation Workshop"
+  description: ""
+  subtype: workshop
   speakers: [5]
   place: "Oblak"
-  service: true
+  language: en
+  complexity: "Beginner"
 -
   id: 503
   title: "Lunch Break"
