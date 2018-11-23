@@ -99,7 +99,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "B.Amsterdam"
-venueFeatures: ["Biggest tech startup ecosystem of Europe", "Three spacious conference rooms", "Easy to reach with both public transport and car"]
+venueFeatures: ["Johan Huizingalaan 763a", "1066 VH Amsterdam", "Next to metro station Henk Sneevlietweg!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
